@@ -1,5 +1,6 @@
-\* Fernanda Arely Moreno De León
-  práctica 8 ejercicio 2 *\
+/* Fernanda Arely Moreno De León
+práctica 8 ejercicio 2 */
+
 
 #include <stdio.h>
 int main()

@@ -1,5 +1,5 @@
 /* Fernanda Arely Moreno De León
-Ejercicio con WHILE */
+Ejercicio WHILE */
 
 #include <stdio.h>
 void main()
